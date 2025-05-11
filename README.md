@@ -1,5 +1,5 @@
 # Template for a two panel layout
-![img](/img/capture.png) 
+![img](/public/capture.png) 
 
 # React + TypeScript + Vite
 
